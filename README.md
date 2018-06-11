@@ -14,3 +14,5 @@ Tutorial found in this [blog](https://scotch.io/tutorials/build-a-restful-json-a
 - [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)
 - [rspec-rails](https://github.com/rspec/rspec-rails)
 - [puma](https://github.com/puma/puma)
+- [bcrypt](https://rubygems.org/gems/bcrypt/versions/3.1.11)
+- [jwt](https://github.com/jwt/ruby-jwt)
