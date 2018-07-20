@@ -4,6 +4,11 @@ Studying Ruby on Rails API only applications.
 ## Tutorial
 Tutorial found in this [blog](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one).
 
+## Firing up the server
+```bash
+$ rails s
+```
+
 ## Table of contents
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Rails for API-only Applications](http://guides.rubyonrails.org/api_app.html)
