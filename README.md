@@ -21,3 +21,5 @@ $ rails s
 - [puma](https://github.com/puma/puma)
 - [bcrypt](https://rubygems.org/gems/bcrypt/versions/3.1.11)
 - [jwt](https://github.com/jwt/ruby-jwt)
+- [will_paginate](https://github.com/mislav/will_paginate)
+- [active_model_serializers](https://github.com/rails-api/active_model_serializers)
